@@ -4,6 +4,6 @@ This challenge requires you to print Hello Saveetha! on a single line, and then 
 
 # # Example:
 
-Saveetha
+Saveetha s
 
 The required output is: Hello, Saveetha! C Programming
